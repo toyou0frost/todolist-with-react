@@ -1,0 +1,21 @@
+#_main{
+    text-align: center;
+}
+
+button{
+    background-color: white;
+    border: 1px solid black;
+}
+
+button:hover{
+    background-color: wheat;
+}
+
+label, #todo{
+    display: inline-block;
+    background-color: black;
+    color: white;
+    width: 180px;
+    border:1px solid white
+}
+
